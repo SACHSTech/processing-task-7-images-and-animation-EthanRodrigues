@@ -1,2 +1,2 @@
 run="set -e; javac -cp .:./lib/* -d bin *.java; java -cp bin:./lib/* Main"
-#entrypoint="Sketch.java"
+entrypoint="Sketch.java"
